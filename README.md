@@ -105,3 +105,4 @@ Para utilizar la aplicación y ver los resultados de cada punto del programa, si
 3. Abre tu navegador web y accede a [http://localhost:3000](http://localhost:3000). Verás la página de inicio con enlaces a cada punto del programa.
 
 4. Haz clic en los enlaces correspondientes para ver el resultado de cada punto.
+
